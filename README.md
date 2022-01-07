@@ -11,5 +11,5 @@
 </div>
   
 <div align="center">
-  <img align="<a href="https://imgbb.com/"><img src="https://i.ibb.co/7rnvyv6/aa.png" alt="aa" border="0" /></a>
+  <img align="<a href="https://imgbb.com/"><img src="https://i.ibb.co/6tYCqbm/aa.png" alt="aa" border="0" /></a>
 </div>
